@@ -1,7 +1,7 @@
 # ID-Password-Generator
 It is a python programme from which we can generate our own ID Password by just writing our name and just telling how much lengthy password do you want.
 
-Project overview
+#Project overview
 
 This project is a simple, two-part command-line utility for generating basic user credentials which is made by python. It first ask the user for their name to create a personalized, randomly numbered ID for(e.g., name@1234). After that, it generates a password, it allows the user to select the desired length and complexity like Letters, Letters+Numbers, or Letters+Numbers+Symbols.
 
