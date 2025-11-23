@@ -1,5 +1,5 @@
 # ID-Password-Generator 
-By Shaurya agrawal
+## By Shaurya agrawal
 
 It is a python programme from which we can generate our own ID Password by just writing our name and just telling how much lengthy password do you want.
 
@@ -9,10 +9,10 @@ This project is a simple, two-part command-line utility for generating basic use
 
 # Features
 
-1.Personalized ID Generation: The system allows the user's first name directly into the ID format (e.g., [Name]@[Random Digits]),it will make the output more relevant than a purely random string.
+*  **Personalized ID Generation:** The system allows the user's first name directly into the ID format (e.g., [Name]@[Random Digits]),it will make the output more relevant than a purely random string.
 
-2.Random Number Suffix: It will automatically add a 4-digit random number to the name portion of the ID, for creating uniqueness across different users.
+*  **Random Number Suffix:** It will automatically add a 4-digit random number to the name portion of the ID, for creating uniqueness across different users.
 
-3.Custom Password Length: Users have control over the strength of their password by specifying the exact number of characters they required.
+*  **Custom Password Length:** Users have control over the strength of their password by specifying the exact number of characters they required.
 
-4.Three Complexity Tiers: This password generator has three clear complexity options: Letters only (L), Letters and Numbers (LN), and for maximum security Letters, Numbers, and Symbols (LNS).
+*  **Three Complexity Tiers:** This password generator has three clear complexity options: Letters only (L), Letters and Numbers (LN), and for maximum security Letters, Numbers, and Symbols (LNS).
